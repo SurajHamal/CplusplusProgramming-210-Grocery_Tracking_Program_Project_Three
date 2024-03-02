@@ -1,4 +1,6 @@
-This Grocery-Tracking project reads from a txt file which contains the text records of grocery items purchased in a chronological order, counts each item the number of times it appears in the input file, stores the data in a map container with items as keys and its frequencies as values, and writes to a new file with the item name paired with its counted frequency for the backing up accumulated data. The program then displays the menu with four options for the user to choose from as follows.
+This Grocery-Tracking project reads from a txt file which contains the text records of grocery items purchased in a chronological order, counts each item the number of times it appears in the input file, stores the data in a map container with items as keys and its frequencies as values, and writes to a new file with the item name paired with its counted frequency for the backing up accumulated data. 
+
+The program then displays the menu with four options for the user to choose from.
 The first option asks the user to input a specific item name and outputs that item name with its frequency. 	
 The second option prints all the items paired with its frequencies. 
 The third option prints all the items and its frequencies printed as number of asterisks times the frequency read from the file. 
