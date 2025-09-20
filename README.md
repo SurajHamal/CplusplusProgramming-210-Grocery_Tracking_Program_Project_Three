@@ -4,6 +4,7 @@ Features include data input, frequency counting, and file handling for persisten
 Demonstrates use of C++ STL maps and functions to optimize data lookup and retrieval.  
 
 **Tech Used:** C++, Visual Studio, STL (maps, file I/O)
+## 📄 Full Documentation
 This Grocery-Tracking project reads from a txt file which contains the text records of grocery items purchased in a chronological order, counts each item the number of times it appears in the input file, stores the data in a map container with items as keys and its frequencies as values, and writes to a new file with the item name paired with its counted frequency for the backing up accumulated data. 
 
 The program then displays the menu with four options for the user to choose from.
